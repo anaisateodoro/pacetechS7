@@ -2,9 +2,9 @@
 
 <br>Curso de Introdução à lógica de programação</br>
 
- * Categoria do Curso: Iniciação a programação | 2022  
+Categoria do Curso: Iniciação a programação | 2022  
 
-# Algoritmo - Acréscimo de 10% no salário do empregado(a) - Semana  7
+# Algoritmo - Acréscimo de 10% no salário do empregado(a)
 
 
 ### Eu sou, a Anaísa 😃 (Eterna aprendiz!)
